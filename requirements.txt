@@ -49,3 +49,4 @@ tgcrypto==1.2.5
 wikipedia==1.4.0
 Flask==2.2.2
 gunicorn==20.1.0
+umongo

@@ -1,6 +1,5 @@
 import logging
 import logging.config
-import temp
 
 # Get logging configurations
 logging.config.fileConfig('logging.conf')

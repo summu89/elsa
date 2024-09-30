@@ -302,7 +302,7 @@ Elsa
 
 
 ╔════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╗
-▫️<a href=https://t.me/JB_Corporation> ᴄʜᴀɴɴᴇʟ </a>
+▫️<a href=https://t.me/jb_corporatioonn> ᴄʜᴀɴɴᴇʟ </a>
 
 ▫️<a href=https://t.me/+fUv8WckDL7kwZWY1> sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ </a>
 ╚════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╝</b>"""

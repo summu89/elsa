@@ -35,7 +35,10 @@ logger.setLevel(logging.ERROR)
 BUTTONS = {}
 SPELL_CHECK = {}
 FILTER_MODE = {}
-
+def trim_caption(caption, limit=1024):
+    if len(caption) > limit:
+        return caption[:limit-3] + "..."
+    return caption
 @Client.on_message(filters.command('autofilter') & filters.user(ADMINS))
 async def fil_mod(client, message): 
       mode_on = ["yes", "on", "true"]
